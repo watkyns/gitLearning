@@ -1,2 +1,2 @@
 # gitLearning
-learning git bash
+THIS IS A REPOSITORY FOR LEARNING GIT BASH
